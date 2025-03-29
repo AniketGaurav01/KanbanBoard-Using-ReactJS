@@ -2,50 +2,71 @@
 
 ## Table of Contents
 
-* [Overview](#Overview)
-* [Installation](#Installation)
-* [Screenshots](#Screenshots)
-
+- [Overview](#overview)
+- [Installation](#installation)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Technology Stack](#technology-stack)
 
 ## Overview
 
-This is a task management application built using React, Redux, and Tailwind CSS. It supports task creation, deletion, updating task status, and filtering tasks based on a search query. The application also provides a drag-and-drop interface for managing tasks across different statuses like "To Do", "In Progress", "Peer Review", and "Closed".
+KanbanBoard is a task management application built using **React, Redux, and Tailwind CSS**. It enables users to efficiently manage their tasks with features like task creation, deletion, updating task status, and filtering tasks. The app provides a **drag-and-drop interface** for managing tasks across different statuses such as "To Do", "In Progress", "Peer Review", and "Closed".
 
 ## Installation
 
-Clone the repository:
+Follow these steps to set up the project locally:
 
-```bash
-    git clone https://github.com/AniketGaurav01/KanbanBoard-using-ReactJs.git
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YourUsername/KanbanBoard-using-ReactJs.git
+   ```
 
-To access directory:
+2. **Navigate to the project directory:**
+   ```bash
+   cd KanbanBoard
+   ```
 
-```bash
-    cd KanbanBoard
-```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-Install dependencies:
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-```bash
-    npm install
-```
+5. **Build for production:**
+   ```bash
+   npm run build
+   ```
 
-Start the development server:
+## Features
 
-```bash
-    npm run dev
-```
+- **Task Management:** Add, update, delete, and reorder tasks.
+- **Drag & Drop:** Move tasks between different status columns.
+- **Search & Filter:** Quickly find tasks based on keywords.
+- **Responsive Design:** Fully functional on mobile and desktop devices.
+- **Dark Mode:** Toggle between light and dark themes.
 
-Build for production:
+## Screenshots
 
-```bash
-    npm run build
-```
-Add screenshots of your application here to demonstrate its functionality.
+<img src="KanbanBoard/kanban/images/image1.jpg" width="250"/>
+<img src="KanbanBoard/kanban/images/image2.jpg" width="250"/>
+<img src="KanbanBoard/kanban/images/image3.jpg" width="250"/>
+<img src="KanbanBoard/kanban/images/image4.jpg" width="250"/>
 
-![Screenshot 1](kanban\KanbanBoard\src\assets\Screenshot2025-03-29_202728.png)
-![Screenshot 2](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222317.png)
-![Screenshot 3](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222612.png)
-![Screenshot 4](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222638.png)
-![Screenshot 5](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222650.png)
+
+## Technology Stack
+
+- **Frontend:** React.js, Redux
+- **Styling:** Tailwind CSS
+- **State Management:** Redux Toolkit
+- **Drag & Drop:** React DnD
+- **Backend (if applicable):** Node.js, Express.js
+- **Database (if applicable):** MongoDB, Firebase
+
+---
+
+For any questions or issues, feel free to raise an issue on **GitHub** or contribute to the project. 🚀
+
