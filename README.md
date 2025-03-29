@@ -47,7 +47,7 @@ Follow these steps to set up the project locally:
 - **Drag & Drop:** Move tasks between different status columns.
 - **Search & Filter:** Quickly find tasks based on keywords.
 - **Responsive Design:** Fully functional on mobile and desktop devices.
-- **Dark Mode:** Toggle between light and dark themes.
+
 
 ## Screenshots
 
@@ -63,8 +63,7 @@ Follow these steps to set up the project locally:
 - **Styling:** Tailwind CSS
 - **State Management:** Redux Toolkit
 - **Drag & Drop:** React DnD
-- **Backend (if applicable):** Node.js, Express.js
-- **Database (if applicable):** MongoDB, Firebase
+
 
 ---
 
