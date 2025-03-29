@@ -44,10 +44,8 @@ Build for production:
 ```
 Add screenshots of your application here to demonstrate its functionality.
 
--**Main Screen:**
-
-![Screenshot 1](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-202728.png)  
-![Screenshot 2](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222317.png)  
-![Screenshot 3](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222612.png)  
-![Screenshot 4](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222638.png)  
-![Screenshot 5](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222650.png)  
+![Screenshot 1](kanban\KanbanBoard\src\assets\Screenshot2025-03-29_202728.png)
+![Screenshot 2](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222317.png)
+![Screenshot 3](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222612.png)
+![Screenshot 4](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222638.png)
+![Screenshot 5](kanban/KanbanBoard/src/assets/Screenshot2025-03-29_222650.png)
