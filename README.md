@@ -4,13 +4,8 @@
 
 * [Overview](#Overview)
 * [Installation](#Installation)
-* [Features](#Features)
-* [Technologies Used](#Technologies-Used)
-* [Components](#Components)
-* [State Management](#State-Management)
-* [Styling](#Styling)
 * [Screenshots](#Screenshots)
-* [Contributing](#Contributing)
+
 
 ## Overview
 
@@ -21,7 +16,7 @@ This is a task management application built using React, Redux, and Tailwind CSS
 Clone the repository:
 
 ```bash
-    git clone https://github.com/AbhishekIT22112002/KanbanBoard.git
+    git clone https://github.com/AniketGaurav01/KanbanBoard-using-ReactJs.git
 ```
 
 To access directory:
@@ -49,19 +44,10 @@ Build for production:
 ```
 Add screenshots of your application here to demonstrate its functionality.
 
-- **Main Screen:**
+-**Main Screen:**
 
-    - *Chrome View*
-
-        ![alt text](src/assets/ChromeView/Main-Screen.png) 
-
-    - *Mobile View*
-        
-        [<img src="kanban\KanbanBoard\src\assets\Screenshot 2025-03-29 202728.png" width="250"/>]
-        [<img src="kanban\KanbanBoard\src\assets\Screenshot 2025-03-29 222317.png"width="250"/>]
-        [<img src="kanban\KanbanBoard\src\assets\Screenshot 2025-03-29 222612.png" width="250"/>]
-
-         [<img src="kanban\KanbanBoard\src\assets\Screenshot 2025-03-29 222638.png" width="250"/>]
- [<img src="kanban\KanbanBoard\src\assets\Screenshot 2025-03-29 222650.png" width="250"/>]
-
-
+![Screenshot 1](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-202728.png)  
+![Screenshot 2](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222317.png)  
+![Screenshot 3](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222612.png)  
+![Screenshot 4](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222638.png)  
+![Screenshot 5](kanban/KanbanBoard/src/assets/Screenshot-2025-03-29-222650.png)  
